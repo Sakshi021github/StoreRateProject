@@ -331,6 +331,9 @@ This project helped in understanding:
 * State Management in React
 * Frontend & Backend Integration
 
+# Deployment
+https://storerateplatformfrontend.netlify.app/
+
 
 # Author
 
